@@ -1,0 +1,8 @@
+@import "~normalize.css";
+@import "~grapesjs/dist/css/grapes.min.css";
+
+.gjs-block {
+  width: auto;
+  height: auto;
+  min-height: auto;
+}
